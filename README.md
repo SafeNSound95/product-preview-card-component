@@ -21,12 +21,12 @@ I employed what I have learnt from the last project especially regarding respons
 
 ### Screenshot
 
-![](![Screenshot of the site.](Screenshot-2023-09-20-Frontend-Mentor-Product-preview-card-component-1.png))
+![]![Screenshot of the site.](Screenshot-2023-09-20-Frontend-Mentor-Product-preview-card-component-1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-mobile-first-grid-Us7CA_cCZw)
+- Live Site URL: (https://product-preview-card-saif.netlify.app/)
 
 ## My process
 
