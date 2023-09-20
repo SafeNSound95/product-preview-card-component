@@ -21,7 +21,7 @@ I employed what I have learnt from the last project especially regarding respons
 
 ### Screenshot
 
-![]![Screenshot of the site.](Screenshot-2023-09-20-Frontend-Mentor-Product-preview-card-component-1.png)
+![Screenshot of the site.](Screenshot-2023-09-20-Frontend-Mentor-Product-preview-card-component-1.png)
 
 ### Links
 
