@@ -39,9 +39,15 @@ body {
 
 /* SPECIFIC STYLES */
 
+.container {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
 .product {
   display: grid;
-  margin: 30px 5%;
+  margin: 0 5%;
   border-radius: 8px;
   overflow: hidden;
   max-width: 60rem;
@@ -127,12 +133,6 @@ body {
 
 /* 672px*/
 @media screen and (min-width: 42em) {
-  .container {
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
-  }
-
   .product {
     grid-template-columns: 1fr 1fr;
   }
